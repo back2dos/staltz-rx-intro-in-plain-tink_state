@@ -1,0 +1,6 @@
+{
+    "version": "0.1.0",
+    "command": "haxe",
+    "args": ["build.hxml", "--times"],
+    "problemMatcher": "$haxe"
+}
